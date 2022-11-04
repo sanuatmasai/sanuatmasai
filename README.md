@@ -14,9 +14,9 @@
 
 - 📫 How to reach me 👉 **sanuatmasai@gmail.com**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://sanuatmasai.github.io/)
 
-- 📄 Know about my experiences 👉 [Resume]()
+- 📄 Know about my experiences 👉 [Resume](https://drive.google.com/file/d/1vuUWMPuFU-M_Kb-U8s5y2WQpZgZdEeWQ/view?usp=sharing)
 
 - ⚡ Fun fact about me 👉 I love to do Art.
 
