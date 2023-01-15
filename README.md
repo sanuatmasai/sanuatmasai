@@ -6,17 +6,17 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=alka1520&label=Profile%20views&color=0e75b6&style=flat" alt="sanuatmasai" /> </p>
 
 
-- 🔭 I’m currently working on ** Core JAVA.**
+- 🔭 I’m currently working on ** Core Java and SpringBoot**
 
 - 🌱 I’m currently learning **Java Backend at Masai School.**
 
-- 👯 I’m looking to collaborate on **LinkedIn & GitHub**
+- 👯 I’m looking to collaborate on **[LinkedIn](https://www.linkedin.com/in/kumarsanu23/) & [Github](https://github.com/sanuatmasai)**
 
-- 📫 How to reach me 👉 **sanuatmasai@gmail.com**
+- 📫 How to reach me 👉 **[sanuatmasai@gmail.com](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://sanuatmasai.github.io/)
 
-- 📄 Know about my experiences 👉 [Resume](https://drive.google.com/file/d/1vuUWMPuFU-M_Kb-U8s5y2WQpZgZdEeWQ/view?usp=sharing)
+- 📄 Know about my experiences 👉 [Resume](https://drive.google.com/drive/u/0/my-drive)
 
 - ⚡ Fun fact about me 👉 I love to do Art.
 
