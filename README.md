@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://sanuatmasai.github.io/)
 
-- 📄 Know about my experiences 👉 [Resume](https://drive.google.com/drive/u/0/my-drive)
+- 📄 Know about my experiences 👉 [Resume](https://drive.google.com/file/d/1t1FT1VbN7UEFpmXfQfSjFzqpDQn5B8fD/view?usp=sharing)
 
 - ⚡ Fun fact about me 👉 I love to do Art.
 
