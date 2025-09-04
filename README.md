@@ -12,7 +12,7 @@
 - ☁️ Exploring **AWS, Docker, and CI/CD pipelines**
 - 👯 Open to collaborate on **AI + backend projects**
 - 📫 Reach me 👉 **[sanuatmasai@gmail.com](mailto:sanuatmasai@gmail.com)**
-- 👨‍💻 Check out my work on [My Portfolio](https://sanuatmasai.github.io/)
+- 👨‍💻 Check out my work on [My Portfolio]([https://sanuatmasai.github.io/](https://www.crio.do/learn/portfolio/sanuatmasai/))
 - 📄 Know about my experiences 👉 [Resume](https://drive.google.com/file/d/1t1FT1VbN7UEFpmXfQfSjFzqpDQn5B8fD/view?usp=sharing)
 - ⚡ Fun fact 👉 I love to do Art 🎨
 
